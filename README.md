@@ -1,6 +1,6 @@
 # Flutter App
 
-A new Flutter project.
+A random Flutter project.
 
 ## Getting Started
 
