@@ -1,6 +1,6 @@
 # Flutter App
 
-A random Flutter project.
+A random Flutter and dart project.
 
 ## Getting Started
 
